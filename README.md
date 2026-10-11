@@ -13,12 +13,5 @@ The AMERH framework provides a structured, iterative approach to effective promp
 
 ---
 
-## 📁 Accessing Downloadable Resources
-1. Navigate to the **Releases** section on the right sidebar.
-2. Select the latest lesson release (e.g., `v1.0 - Lesson 1`).
-3. Under **Assets**, click to download the PDF prompt templates and worksheets.
-
----
-
 ## ⚠️ Disclaimer
 All resources provided in this repository are for **educational and instructional purposes only**. Generative AI outputs can be inaccurate or flawed. Users are expected to independently verify all results. The creator assumes no liability for errors or outcomes resulting from the use of these prompts.
