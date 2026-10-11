@@ -1,6 +1,6 @@
 # Mastering the Prompt Writing Using the AMERH Framework **By Eman A M Amer**
 
-> *Granted for educational use, provided the text and author attribution remain unaltered. Reproduction in modified forms or removing the author's name is strictly prohibited without prior written consent.*
+> Granted for educational use, provided the text and author attribution remain unaltered. Reproduction in modified forms or removing the author's name is strictly prohibited without prior written consent.
 
 ---
 
