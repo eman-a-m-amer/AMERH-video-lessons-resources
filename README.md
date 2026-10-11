@@ -1,8 +1,10 @@
 #  AMERH Framework Resource Hub
 
+[![Hits](https://hits.sh/github.com/eman-a-m-amer/AMERH-video-lessons-resources.svg?view=today-total&style=flat-square&label=Views)](https://hits.sh/github.com/eman-a-m-amer/AMERH-video-lessons-resources/)
+
 Welcome to the official repository for the **AMERH Framework** video series, created by **Eman A M Amer**. 
 
-This hub provides downloadable PDF prompt templates and instructional resources designed to help  users interact with AI responsibly, critically, and ethically.
+This hub provides instructional resources designed to help  users interact with AI responsibly, critically, and ethically.
 
 ---
 
