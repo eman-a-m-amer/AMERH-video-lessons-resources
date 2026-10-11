@@ -63,4 +63,3 @@ Before moving to the next step, make sure you can answer these two questions:
 
 > *If both answers are clear, your prompt has a stronger foundation, but we are not done yet.*
 
-<button onclick="window.print()">🖨️ Print Worksheet</button>
