@@ -49,11 +49,13 @@ Act as [PERSONA] ...... for [AUDIENCE].
 
 ## Filled-in Templates (Examples)
 
-Use the base formula `Act as [PERSONA] ....... for [AUDIENCE].` to build targeted prompts:
+Use the template `Act as [PERSONA] ....... for [AUDIENCE].` to build targeted prompts:
 
 ### Example 1: Police Officer
 ```text
+
 Act as a police officer providing crime prevention guidance and community safety updates for local business owners, merchants, retail employees, and neighborhood residents.
+
 ```
 ### Example 2: Teacher
 ```text
