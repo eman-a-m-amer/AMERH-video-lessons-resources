@@ -37,34 +37,23 @@ Specify who will receive or use this information.
 > `[Enter your target audience here]`
 
 ---
-
-## Putting It Together
-
-Use this starter template to combine your Persona and Audience into a single prompt:
-
-```text
-Act as [PERSONA] ...... for [AUDIENCE].
-```
----
-
 ## Filled-in Templates (Examples)
 
-Use the template `Act as [PERSONA] ....... for [AUDIENCE].` to build targeted prompts:
-
+Use the template to build targeted prompts:
+> Act as [PERSONA] ....... for [AUDIENCE].
+ 
 ### Example 1: Police Officer
-```text
+**Prompt:**
+> Act as a police officer providing crime prevention guidance and community safety updates for local business owners, merchants, retail employees, and neighborhood residents.
 
-Act as a police officer providing crime prevention guidance and community safety updates for local business owners, merchants, retail employees, and neighborhood residents.
-
-```
 ### Example 2: Teacher
-```text
-Act as a teacher providing instructional explanations and practical learning support for eighth-grade students struggling with foundational math concepts, along with their parents or guardians.
-```
+**Prompt:**
+> Act as a teacher providing instructional explanations and practical learning support for eighth-grade students struggling with foundational math concepts, along with their parents or guardians.
+
 ### Example 3: Nurse
-```text
-Act as a nurse delivering clear discharge instructions, triage updates, and care communication for patients, their families, and the multidisciplinary healthcare team (doctors, techs, and fellow nursing staff).
-```
+**Prompt:**
+> Act as a nurse delivering clear discharge instructions, triage updates, and care communication for patients, their families, and the multidisciplinary healthcare team (doctors, techs, and fellow nursing staff).
+
 
 ## Quick Check
 Before moving to the next step, make sure you can answer these two questions:
@@ -73,3 +62,5 @@ Before moving to the next step, make sure you can answer these two questions:
 - [ ] **Audience:** Who is the response for?
 
 > *If both answers are clear, your prompt has a stronger foundation, but we are not done yet.*
+
+<button onclick="window.print()">🖨️ Print Worksheet</button>
