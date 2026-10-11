@@ -17,7 +17,7 @@ Define the role, expertise, or perspective you want the AI to adopt.
 - Comedian
 - Motivational speaker
 
-### ✍️ My Persona
+### My Persona
 > **I want the AI to act as:**  
 > `[Enter your chosen persona here]`
 
@@ -32,13 +32,13 @@ Specify who will receive or use this information.
 - **(Teacher):** Eighth-grade students struggling with foundational math concepts, along with their parents or guardians.
 - **(Nurse):** Emergency department patients, their families, and the multidisciplinary healthcare team (doctors, techs, and fellow nursing staff).
 
-### ✍️ My Audience
+### My Audience
 > **The response is intended for:**  
 > `[Enter your target audience here]`
 
 ---
 
-## 🧩 Putting It Together
+## Putting It Together
 
 Use this starter template to combine your Persona and Audience into a single prompt:
 
@@ -47,7 +47,7 @@ Act as [PERSONA] ...... for [AUDIENCE].
 ```
 ---
 
-## 🧩 Filled-in Templates (Examples)
+## Filled-in Templates (Examples)
 
 Use the base formula `Act as [PERSONA] ....... for [AUDIENCE].` to build targeted prompts:
 
